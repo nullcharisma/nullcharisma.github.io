@@ -1,2 +1,3 @@
 # nullcharisma.github.io
-hello 👋🏼
+working as intended (=🝦 ﻌ 🝦=)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
