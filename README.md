@@ -6,12 +6,11 @@ working as intended (=🝦 ﻌ 🝦=)
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Linktree</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
-        <h1>Your Name</h1>
+        <h1> All Things Null! </h1>
         <div class="links">
             <a href="https://www.twitch.tv/nullcharisma target="_blank"> twitch </a>
             <a href="https://x.com/nvllcharisma" target="_blank"> twitter </a>
