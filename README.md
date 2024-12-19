@@ -5,7 +5,8 @@
 </head>
 <h1 style="color:#dcd4f5;"><b> working as intended (=🝦 ﻌ 🝦=) 
 <html lang="en">
-![image](https://github.com/user-attachments/assets/50079afc-320e-45a0-a6a2-a39b97afc8fa)
+![image](https://github.com/user-attachments/assets/1bf316bf-eee2-4fd4-937a-1c7a9a363533)
+
 
 <body>
     <body style="background-color:#18113a;">
