@@ -1,5 +1,5 @@
 
-<h1 style="background-color:#dcd4f5;"><b> working as intended (=🝦 ﻌ 🝦=) 
+<h1 style="color:#dcd4f5;"><b> working as intended (=🝦 ﻌ 🝦=) 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <body style="background-color:#18113a;">
+    <body style="color:#18113a;">
     <div class="container">
       <b><h1 style="background-color:#dcd4f5;"></h1>All Things Null! 
         <div class="links">
