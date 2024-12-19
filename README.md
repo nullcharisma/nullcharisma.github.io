@@ -7,7 +7,6 @@
 <html lang="en">
 <body>
     <body style="background-color:#18113a;">
-    <div class="container">
       <b><h1 style="color:#dcd4f5;"></h1>All Things Null! 
         <div class="links">
            <li> <a href="https://www.twitch.tv/nullcharisma" target="_blank" style="color: #dcd4f5"> twitch </a> </li>
