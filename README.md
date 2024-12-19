@@ -16,5 +16,4 @@ working as intended (=🝦 ﻌ 🝦=)
            <li> <a href="https://www.instagram.com/nullcharisma/" target="_blank"> instagram </a></li>
            <li> <a href="https://www.youtube.com/@nullcharisma" target="_blank"> youtube </a></li>
             
-</body>
-</html>
+
