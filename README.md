@@ -12,9 +12,9 @@ working as intended (=🝦 ﻌ 🝦=)
     <div class="container">
         <h1> All Things Null! </h1>
         <div class="links">
-            <a href="https://www.twitch.tv/nullcharisma target="_blank"> twitch </a>
+            <a href="https://www.twitch.tv/nullcharisma" target="_blank"> twitch </a>
             <a href="https://x.com/nvllcharisma" target="_blank"> twitter </a>
-            <a href="https://www.instagram.com/nullcharisma/ target="_blank"> instagram </a>
+            <a href="https://www.instagram.com/nullcharisma/" target="_blank"> instagram </a>
             <a href="https://www.youtube.com/@nullcharisma" target="_blank"> youtube </a>
         </div>
     </div>
