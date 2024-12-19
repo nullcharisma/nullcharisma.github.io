@@ -14,7 +14,3 @@
            <li> <a href="https://x.com/nvllcharisma" target="_blank" style="color: #dcd4f5"> twitter </a> 
            <li> <a href="https://www.instagram.com/nullcharisma/" target="_blank" style="color: #dcd4f5"> instagram </a>
            <li> <a href="https://www.youtube.com/@nullcharisma" target="_blank" style="color: #dcd4f5" > youtube </a>
-
-
-
-![image](https://github.com/user-attachments/assets/356be1bd-a8aa-46d0-83a9-c3162bc6e65c)
