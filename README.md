@@ -13,6 +13,6 @@
         <div class="links">
            <li> <a href="https://www.twitch.tv/nullcharisma" target="_blank" style="color: #dcd4f5"> twitch </a> 
            <li> <a href="https://x.com/nvllcharisma" target="_blank" style="color: #dcd4f5"> twitter </a> 
-           <li> <a href="https://www.instagram.com/nullcharisma/" > instagram </a>
-           <li> <a href="https://www.youtube.com/@nullcharisma" > youtube </a>
+           <li> <a href="https://www.instagram.com/nullcharisma/" target="_blank" style="color: #dcd4f5"> instagram </a>
+           <li> <a href="https://www.youtube.com/@nullcharisma" target="_blank" style="color: #dcd4f5" > youtube </a>
 
