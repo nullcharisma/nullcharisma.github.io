@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <body style="background-color:powderblue;">
     <div class="container">
       <b><h1></h1>All Things Null! 
         <div class="links">
