@@ -1,5 +1,5 @@
 
-working as intended (=🝦 ﻌ 🝦=)
+<h1><b> working as intended (=🝦 ﻌ 🝦=) 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +8,7 @@ working as intended (=🝦 ﻌ 🝦=)
 </head>
 <body>
     <div class="container">
-        <h1> All Things Null! </h1>
+      <b><h1></h1>All Things Null! 
         <div class="links">
            <li> <a href="https://www.twitch.tv/nullcharisma" target="_blank"> twitch </a> 
            <li> <a href="https://x.com/nvllcharisma" target="_blank"> twitter </a> 
