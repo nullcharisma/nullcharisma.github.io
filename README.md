@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/7a671c92-c8bc-45dd-a038-fa66f77b66f1) 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,5 +11,4 @@
            <li> <a href="https://x.com/nvllcharisma" target="_blank" style="color: #dcd4f5"> twitter </a> </li>
            <li> <a href="https://www.instagram.com/nullcharisma/" target="_blank" style="color: #dcd4f5"> instagram </a> </li>
            <li> <a href="https://www.youtube.com/@nullcharisma" target="_blank" style="color: #dcd4f5" > youtube </a> </li>
-![image](https://github.com/user-attachments/assets/7a671c92-c8bc-45dd-a038-fa66f77b66f1) 
 </body>
