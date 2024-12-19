@@ -1,6 +1,6 @@
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=0">
     <link rel="stylesheet" href="styles.css">
 </head>
 <h1 style="color:#dcd4f5;"><b> working as intended (=🝦 ﻌ 🝦=) 
