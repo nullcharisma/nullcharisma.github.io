@@ -4,6 +4,8 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <h1 style="color:#dcd4f5;"><b> working as intended (=🝦 ﻌ 🝦=) 
+    ![Uploading image.png…]()
+
 <html lang="en">
 <body>
     <body style="background-color:#18113a;">
