@@ -14,5 +14,5 @@
          <style> selector { color: #dcd4f5; }  <li> <a href="https://www.twitch.tv/nullcharisma" target="_blank"> twitch </a> 
            <li> <a href="https://x.com/nvllcharisma" target="_blank"> twitter </a> 
            <li> <a href="https://www.instagram.com/nullcharisma/" target="_blank"> instagram </a></li>
-           <li> <a href="https://www.youtube.com/@nullcharisma" target="_blank"> youtube </a></li> </style> 
+           <li> <a href="https://www.youtube.com/@nullcharisma" target="_blank"> youtube </a></li>
 
