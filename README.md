@@ -3,7 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
 </head>
-<h1 style="color:#dcd4f5;"><b> working as intended (=🝦 ﻌ 🝦=) ![image](https://github.com/user-attachments/assets/1bf316bf-eee2-4fd4-937a-1c7a9a363533)
+<h1 style="color:#dcd4f5;"><b> working as intended (=🝦 ﻌ 🝦=)
 <html lang="en">
 
 <body>
