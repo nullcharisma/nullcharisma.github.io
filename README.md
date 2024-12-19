@@ -4,9 +4,10 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <h1 style="color:#dcd4f5;"><b> working as intended (=🝦 ﻌ 🝦=) 
-    ![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/50079afc-320e-45a0-a6a2-a39b97afc8fa)
 
 <html lang="en">
+
 <body>
     <body style="background-color:#18113a;">
     <div class="container">
