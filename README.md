@@ -15,4 +15,4 @@
            <li> <a href="https://www.instagram.com/nullcharisma/" target="_blank"> instagram </a></li>
            <li> <a href="https://www.youtube.com/@nullcharisma" target="_blank"> youtube </a></li>
             
-<p style="background-image: url('https://ibb.co/NxnW8xd');">
+
