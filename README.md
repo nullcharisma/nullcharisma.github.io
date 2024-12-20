@@ -12,6 +12,7 @@
       color: #dcd4f5;
       font-family: Comic Sans MS, sans-serif;
     }
+    display:inline
     h1 {
       color: #dcd4f5;
     }
