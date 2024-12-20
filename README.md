@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Website</title>
   <link rel="stylesheet" href="css/styles.css">
 <h1 style="color:#dcd4f5;"> <b>working as intended (=🝦 ﻌ 🝦=)</b>
 <body style="background-color:#18113a;">
