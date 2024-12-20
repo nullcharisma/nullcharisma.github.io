@@ -12,7 +12,6 @@
       color: #dcd4f5;
       font-family: Comic Sans MS, sans-serif;
     }
-    display:inline
     h1 {
       color: #dcd4f5;
     }
@@ -27,8 +26,8 @@
   </style>
 </head>
 <body>
-  <h1><b>working as intended (=🝦 ﻌ 🝦=)</b></h1>
-  <h1><b>all things null!</b></h1>
+  <h1 style="margin: 0;"><b>working as intended (=🝦 ﻌ 🝦=)</b></h1>
+  <h1 style="margin: 0;"><b>all things null!</b></h1>
     <li><a href="https://www.twitch.tv/nullcharisma" target="_blank">twitch</a></li>
     <li><a href="https://x.com/nvllcharisma" target="_blank">twitter</a></li>
     <li><a href="https://www.youtube.com/@nullcharisma" target="_blank">youtube</a></li>
