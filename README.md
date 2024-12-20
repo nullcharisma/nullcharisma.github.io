@@ -31,8 +31,8 @@
   </style>
 </head>
 <body>
-  <h1><b>Working as Intended (=🝦 ﻌ 🝦=)</b></h1>
-  <h2><b>All Things Null!</b></h2>
+  <h1><b>working as intended (=🝦 ﻌ 🝦=)</b></h1>
+  <h1><b>All Things Null!</b></h1>
   <ul>
     <li><a href="https://www.twitch.tv/nullcharisma" target="_blank">twitch</a></li>
     <li><a href="https://x.com/nvllcharisma" target="_blank">twitter</a></li>
