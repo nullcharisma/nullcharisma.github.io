@@ -11,7 +11,6 @@
       background-color: #18113a;
       color: #dcd4f5;
       font-family: Arial, sans-serif;
-      text-align: center;
     }
     h1 {
       color: #dcd4f5;
