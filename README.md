@@ -16,12 +16,12 @@
     h1 {
       color: #dcd4f5;
     }
-    li {
-      margin: 10px 0;
-    }
-    a {
+   a {
       color: #dcd4f5;
       text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
     }
     
   </style>
