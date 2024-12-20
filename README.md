@@ -2,32 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="0, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=-0">
   <link rel="stylesheet" href="css/styles.css">
-</head>
-<body>
-  <h1 style="margin: 0;"><span><b>working as intended (=🝦 ﻌ 🝦=)</b></span></h1>
-   <h1 style="margin: 0;"><span><b>all things null!</b></span></h1>
-    <li><a href="https://www.twitch.tv/nullcharisma" target="_blank">twitch</a></li>
-    <li><a href="https://x.com/nvllcharisma" target="_blank">twitter</a></li>
-    <li><a href="https://www.youtube.com/@nullcharisma" target="_blank">youtube</a></li>
-    <li><a href="https://www.instagram.com/nullcharisma/" target="_blank">instagram</a></li>
-  <style>
-    body {
-      background-color: #18113a;
-      color: #dcd4f5;
-      font-family: Comic Sans MS, sans-serif;
-    }
-    h1 {
-      color: #dcd4f5;
-    }
-   a {
-      color: #dcd4f5;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>  
+<h1 style="color:#dcd4f5;"> <b>working as intended (=🝦 ﻌ 🝦=)</b>
+<body style="background-color:#18113a;">
+      <b><h1 style="color:#dcd4f5;"></h1>All Things Null!</b>
+           <li> <a href="https://www.twitch.tv/nullcharisma" target="_blank" style="color: #dcd4f5">twitch</a> </li>
+           <li> <a href="https://x.com/nvllcharisma" target="_blank" style="color: #dcd4f5">twitter</a> </li>
+           <li> <a href="https://www.instagram.com/nullcharisma/" target="_blank" style="color: #dcd4f5">instagram</a> </li>
+           <li> <a href="https://www.youtube.com/@nullcharisma" target="_blank" style="color: #dcd4f5">youtube</a> </li>
 </body>
-</html>
