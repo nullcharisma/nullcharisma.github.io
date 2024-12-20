@@ -1,11 +1,5 @@
 ![image](https://github.com/user-attachments/assets/7a671c92-c8bc-45dd-a038-fa66f77b66f1) 
-
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="0, initial-scale=1.0">
-  <link rel="stylesheet" href="css/styles.css">
-  <title>all things null</title>
+ <title>all things null</title>
   <style>
     body {
       background-color: #18113a;
@@ -23,6 +17,12 @@
       text-decoration: underline;
     }
   </style>
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="0, initial-scale=1.0">
+  <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
   <h1 style="margin: 0;"><span><b>working as intended (=🝦 ﻌ 🝦=)</b></span></h1>
