@@ -22,8 +22,10 @@
     a:hover {
       text-decoration: underline;
     }
-    a {
-  text-decoration: none; 
+     {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
 }
   </style>
 </head>
