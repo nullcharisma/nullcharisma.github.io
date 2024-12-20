@@ -20,7 +20,7 @@
       padding: 0;
     }
     li {
-      margin: 10px 0;
+      margin: 0px 0;
     }
     a {
       color: #dcd4f5;
