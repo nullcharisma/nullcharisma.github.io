@@ -22,7 +22,9 @@
     a:hover {
       text-decoration: underline;
     }
-    
+    a {
+  text-decoration: none; 
+}
   </style>
 </head>
 <body>
