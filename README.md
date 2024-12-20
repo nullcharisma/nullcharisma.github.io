@@ -10,7 +10,7 @@
     body {
       background-color: #18113a;
       color: #dcd4f5;
-      font-family: Comic, Sans;
+      font-family: Comic Sans MS, sans-serif;
     }
     h1 {
       color: #dcd4f5;
