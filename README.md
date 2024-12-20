@@ -22,11 +22,6 @@
     a:hover {
       text-decoration: underline;
     }
-     {
-  margin: 0;
-  padding: 0;
-  text-decoration: none;
-}
   </style>
 </head>
 <body>
