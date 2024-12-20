@@ -1,14 +1,44 @@
-![image](https://github.com/user-attachments/assets/7a671c92-c8bc-45dd-a038-fa66f77b66f1) 
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=-0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="css/styles.css">
-<h1 style="color:#dcd4f5;"> <b>working as intended (=🝦 ﻌ 🝦=)</b>
-<body style="background-color:#18113a;">
-      <b><h1 style="color:#dcd4f5;"></h1>All Things Null!</b>
-           <li> <a href="https://www.twitch.tv/nullcharisma" target="_blank" style="color: #dcd4f5">twitch</a> </li>
-           <li> <a href="https://x.com/nvllcharisma" target="_blank" style="color: #dcd4f5">twitter</a> </li>
-           <li> <a href="https://www.instagram.com/nullcharisma/" target="_blank" style="color: #dcd4f5">instagram</a> </li>
-           <li> <a href="https://www.youtube.com/@nullcharisma" target="_blank" style="color: #dcd4f5">youtube</a> </li>
+  <title>All Things Null</title>
+  <style>
+    body {
+      background-color: #18113a;
+      color: #dcd4f5;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    h1 {
+      color: #dcd4f5;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      margin: 10px 0;
+    }
+    a {
+      color: #dcd4f5;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1><b>Working as Intended (=🝦 ﻌ 🝦=)</b></h1>
+  <h2><b>All Things Null!</b></h2>
+  <ul>
+    <li><a href="https://www.twitch.tv/nullcharisma" target="_blank">twitch</a></li>
+    <li><a href="https://x.com/nvllcharisma" target="_blank">twitter</a></li>
+    <li><a href="https://www.instagram.com/nullcharisma/" target="_blank">instagram</a></li>
+    <li><a href="https://www.youtube.com/@nullcharisma" target="_blank">youTube</a></li>
+  </ul>
 </body>
+</html>
