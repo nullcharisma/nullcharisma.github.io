@@ -12,6 +12,22 @@
     <li><a href="https://x.com/nvllcharisma" target="_blank">twitter</a></li>
     <li><a href="https://www.youtube.com/@nullcharisma" target="_blank">youtube</a></li>
     <li><a href="https://www.instagram.com/nullcharisma/" target="_blank">instagram</a></li>
-    
+  <style>
+    body {
+      background-color: #18113a;
+      color: #dcd4f5;
+      font-family: Comic Sans MS, sans-serif;
+    }
+    h1 {
+      color: #dcd4f5;
+    }
+   a {
+      color: #dcd4f5;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>  
 </body>
 </html>
