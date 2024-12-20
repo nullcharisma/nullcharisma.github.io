@@ -3,7 +3,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="css/styles.css">
-  <title>All Things Null!</title>
+  <title>all things null!</title>
   <style>
     body {
       background-color: #18113a;
