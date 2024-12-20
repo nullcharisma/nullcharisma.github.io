@@ -1,22 +1,4 @@
 ![image](https://github.com/user-attachments/assets/7a671c92-c8bc-45dd-a038-fa66f77b66f1) 
-  <style>
-    body {
-      background-color: #18113a;
-      color: #dcd4f5;
-      font-family: Comic Sans MS, sans-serif;
-    }
-    h1 {
-      color: #dcd4f5;
-    }
-   a {
-      color: #dcd4f5;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-
 <html lang="en">
 <head>
   <meta charset="UTF-8">
